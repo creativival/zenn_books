@@ -13,6 +13,6 @@
     "npm": "8.5.5"
   },
   "dependencies": {
-    "zen-cli": "^0.0.2"
+    "zenn-cli": "^0.1.110"
   }
 }
