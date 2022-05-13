@@ -1,0 +1,10 @@
+title: "Pythonでマイクラを作ろう"
+summary: "ゲームエンジンPanda3Dを使って、マイクラ自体を一から作成します。3Dゲーム作成の基礎から応用まで学ぶことができます。"
+topics: ["panda3d", "python", "minecraft", 'game', '3d'] # トピック（5つまで）
+published: false # falseだと下書き
+price: 3000 # 有料の場合200〜5000
+chapters:
+  - introduction # はじめに
+  - chapter1 # チャプター1
+  - chapter2 # チャプター2
+  - chapter3 # チャプター3
